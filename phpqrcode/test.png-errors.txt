@@ -1,0 +1,354 @@
+2020-06-22 04:46:41: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2020-06-22 04:46:43: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2020-06-22 04:47:24: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2020-06-22 04:47:36: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2020-06-22 04:47:38: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2020-06-22 04:55:34: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Lector_de_QR\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
